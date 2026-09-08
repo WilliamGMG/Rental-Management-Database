@@ -1,0 +1,2 @@
+# Rental-Management-Database
+Database-backed rental management application built with Python and MariaDB, implementing normalized relational data modeling, parameterized SQL, dynamic query construction, CRUD operations, rental and waitlist workflows, and object-to-database mapping.
